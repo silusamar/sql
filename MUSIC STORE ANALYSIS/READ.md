@@ -7,7 +7,7 @@
 ## Background
 🎓 I hold a degree in [BA] from [BREHAMPUR UNIVERSITY].
 🌟 I have completed online courses and self-study in data analysis tools and techniques.
-💼 I have [] of experience in [relevant field] where I have used data analysis to [mention accomplishments].
+💼 I have [1year] of experience in [data analysis] where I have used data analysis to [mention accomplishments].
 
 ## Skills
 📈 Data Analysis: Proficient in data cleaning, exploration, and visualization.
@@ -29,6 +29,6 @@
 📌 I'm open to collaboration and networking with fellow data enthusiasts and professionals.
 
 ## Contact
-📧 Feel free to reach out to me at [Your Email] or connect with me on [LinkedIn Profile Link].
+📧 Feel free to reach out to me at [silubishoyi0742@gmail.com] or connect with me on [https://www.linkedin.com/in/samar-bahini-bishoyi-883785290/].
 
 Thank you for visiting my Data Analysis Aspirant Profile! I'm excited about the world of data analysis and look forward to connecting with like-minded individuals and opportunities in this field. Let's analyze some data together! 🚀
